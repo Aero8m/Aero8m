@@ -1,5 +1,7 @@
 ## Hi there 👋
+I am a student and a coder.
+
+Please follow my bilibili account! Thank you!
 
 My website: [www.aero8m.cn](https://www.aero8m.cn)
-
-[![Aero8m's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aero80wd)](https://github.com/anuraghazra/github-readme-stats)
+My Bilibili account: [Aero8m的个人空间](https://space.bilibili.com/1911529131)
